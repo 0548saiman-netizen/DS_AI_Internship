@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #task 1
+=======
+# Task 1
+>>>>>>> 81e6580 (Day7)
 
 def calc_rectangle(length, width):
     area = length * width

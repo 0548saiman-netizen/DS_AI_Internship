@@ -1,0 +1,3 @@
+Name: saiman, Goal: study python
+Name: saiman, Goal: practice python
+Name: saiman, Goal: complete assignment
