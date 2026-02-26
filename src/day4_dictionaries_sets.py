@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # task 1
-=======
-# Task 1
-
->>>>>>> 81e6580 (Day7)
 # Create a dictionary with at least 3 contacts
 contacts = {
     "Aman": "9876543210",
@@ -24,15 +19,8 @@ print("\nContact List:")
 # Iteration using for loop
 for name, phone in contacts.items():
     print(f"Contact: {name} | Phone: {phone}")
-<<<<<<< HEAD
    
 # task 2 
-=======
-    
-    
-# Task 2
-
->>>>>>> 81e6580 (Day7)
 # Step 1: Create a list with duplicate user IDs
 raw_logs = ["ID01", "ID02", "ID01", "ID05", "ID02", "ID08", "ID01"]
 
@@ -49,13 +37,7 @@ print("Unique set length:", len(unique_users))
 # Step 5: Output the unique set
 print("Unique users:", unique_users)
 
-<<<<<<< HEAD
 # task 3
-=======
-
-# Task 3
-
->>>>>>> 81e6580 (Day7)
 # Create two sets
 friend_a = {"Python", "Cooking", "Hiking", "Movies"}
 friend_b = {"Hiking", "Gaming", "Photography", "Python"}
@@ -73,8 +55,3 @@ unique_to_a = friend_a - friend_b
 print("Shared Interests:", shared_interests)
 print("All Interests:", all_interests)
 print("Unique Interests of Friend A:", unique_to_a)
-<<<<<<< HEAD
-=======
-print("Unique Interests of Friend A:", unique_to_a)
-
->>>>>>> 81e6580 (Day7)
