@@ -1,3 +1,3 @@
-print("This is MAIN branch version")
+print("Main Branch Version")
 
 print("Visualization feature branch")
